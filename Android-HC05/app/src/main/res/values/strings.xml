@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android-HC05</string>
+    <string name="device">Device</string>
+    <string name="device_name">HC05</string>
+    <string name="connect">Connect</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="receive">Receive: </string>
+</resources>
