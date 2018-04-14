@@ -24,7 +24,7 @@ import java.util.UUID;
 public class MainActivity extends AppCompatActivity {
 
     String message, deviceName, receive;
-    byte[] bytes = new byte[16];
+    byte[] bytes = new byte[100];
     Boolean isDeviceFind=false, isDeviceConnected=false, isDeviceClosed=false;
 
     // view variables
@@ -81,7 +81,9 @@ public class MainActivity extends AppCompatActivity {
         message = edt_Message.getText().toString();
         output.write(message.getBytes());
 
-        receiveMessage();
+        char ch = message.charAt(0);
+        if(ch=='t' || ch=='h' || ch=='a' || ch=='c' || ch=='w')
+            receiveMessage();
     }
 
     public void receiveMessage() throws IOException {
