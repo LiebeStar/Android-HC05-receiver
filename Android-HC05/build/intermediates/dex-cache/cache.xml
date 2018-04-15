@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-26.0.0-alpha1_e79fb72a585f35972d1de13e294c2ab7e90a4785/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-26.0.0-alpha1_4855ae7cb9d4cd14ca3e55fe2f95d2e0b414500d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-26.0.0-alpha1_eaed16f2a8de2538d80ae3a518ccb6d78a95b558/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-26.0.0-alpha1_88602aa70ac032359d9084ac789e4ebae9063284/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-26.0.0-alpha1_8d6b1bc018a7268bd1129dac1211d9c6d6f1ba41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-26.0.0-alpha1_70a3656127a7089da05145af4e641135d1748505/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liebe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_81e8191b5a711ffcd1ffcc2a37cc28e149670043/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-26.0.0-alpha1_a9ca8f900094c762ac4e7abd1c867bfb53b98682/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="89a12fc008541c4b63984614e2dfc98513a7c53b">
+        <dex dex="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_77d1bad0d55b397a7bb933cbf68ec4529bc0be31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-26.0.0-alpha1_9e0b61446ab37537a4d1844768f8007ffb14b888/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1502f57d8a7c5973fbbddd8d80fe1b6fe41df58d">
+        <dex dex="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3fb76f7b8a3905c5909a4600d0f6d1c476ec492a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-26.0.0-alpha1_38b16c8258a9bbff2d93b8b5b6b03f0a14b4a0ff/classes.dex" />
+    </item>
+
+</items>

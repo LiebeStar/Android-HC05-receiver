@@ -1,0 +1,140 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:shrinkColumns="*"
+    android:stretchColumns="*"
+    android:background="@drawable/gradient_background"
+    tools:ignore="NewApi">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:background="#010101" >
+
+        <TextView
+            android:id="@+id/textDevice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_span="3"
+            android:gravity="center"
+            android:textColor="#FEFEFF"
+            android:text="@string/device"
+            android:textSize="20sp"
+            android:textStyle="bold" >
+        </TextView>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center" >
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="20dp"
+            android:id="@+id/device"
+            android:layout_column="1"
+            android:text="@string/device_name"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:gravity="center_vertical|center"
+            android:width="100dp"
+            android:typeface="monospace"
+            android:layout_marginRight="20dp"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="20dp"
+            android:text="@string/connect"
+            android:id="@+id/btn_connect"
+            android:layout_column="2"
+            android:typeface="normal"
+            android:width="60dp"
+            android:onClick="connectDevice"
+            android:textStyle="bold"
+            android:layout_marginRight="20dp"
+            android:textAllCaps="false"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:background="#010101"
+        android:layout_marginBottom="20dp" >
+
+        <TextView
+            android:id="@+id/textMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_span="3"
+            android:gravity="center"
+            android:textColor="#FEFEFE"
+            android:text="@string/message"
+            android:textSize="20sp"
+            android:textStyle="bold" >
+        </TextView>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:layout_marginRight="20dp"
+            android:layout_marginEnd="20dp"
+            android:id="@+id/message"
+            android:layout_column="1"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:gravity="center_vertical|center"
+            android:width="100dp"
+            android:typeface="monospace"
+            android:hint="@string/message"/>
+
+        <Button
+            android:text="@string/send"
+            android:id="@+id/btn_send"
+            android:layout_column="2"
+            android:typeface="normal"
+            android:width="60dp"
+            android:onClick="sendMessage"
+            android:textStyle="bold"
+            android:layout_marginRight="20dp"
+            android:layout_marginEnd="20dp"
+            android:textAllCaps="false"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp">
+
+
+        <TextView
+            android:text="@string/receive"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:id="@+id/textReceive"
+            android:textColor="#000000"
+            android:textSize="17sp"/>
+    </TableRow>
+
+
+
+</TableLayout>

@@ -1,0 +1,7 @@
+#Sat Apr 14 16:14:18 CST 2018
+base.0=/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3fb76f7b8a3905c5909a4600d0f6d1c476ec492a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_77d1bad0d55b397a7bb933cbf68ec4529bc0be31/classes.dex
+base.1=/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_77d1bad0d55b397a7bb933cbf68ec4529bc0be31
+file.0=/Users/liebe/Liebe/Case/ITRI/Android-HC05/Android-HC05/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3fb76f7b8a3905c5909a4600d0f6d1c476ec492a/classes.dex
